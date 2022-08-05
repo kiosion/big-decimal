@@ -1,2 +1,2 @@
 # big-decimal
-Lightweight class for supporting large decimals with arbitrary precision in JS
+Lightweight class for supporting large decimals with arbitrary precision in JS. Wraps type BigInt.
